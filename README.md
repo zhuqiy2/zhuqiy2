@@ -25,8 +25,14 @@
 - 📊 [Tracker统计](https://tr-stats.zhuqiy.top)
 - 🔖 [新标签页](https://newtab.zhuqiy.com)
 
-## 📈 Stats
+## 📈 GitHub 数据
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuqiy2&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=zhuqiy2&show_icons=true&theme=radical&hide_border=true&locale=cn)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuqiy2&layout=compact&theme=radical&hide_border=true&locale=cn)
+
+</div>
 
 ---
