@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # 每天 02:00 UTC（北京时间 10:00）自动更新
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  blog-post-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://www.zhuqiy.com/rss.xml'
+          max_post_count: 5
+          readme_path: ./README.md
+          commit_message: 'chore: update latest blog posts'
