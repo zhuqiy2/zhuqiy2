@@ -69,6 +69,7 @@
 
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,nginx,docker,bash&theme=dark" alt="服务器 / 运维" />
+<img src="https://raw.githubusercontent.com/zhuqiy2/zhuqiy2/main/assets/baota.svg" alt="宝塔面板" />
 </p>
 
 ---
