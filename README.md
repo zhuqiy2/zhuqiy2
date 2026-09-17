@@ -15,7 +15,9 @@
 
 喜欢折腾技术的学生。日常写博客，记录网络、安全事件的排查和分析过程，也维护着个人博客、Tracker 统计和几个小站。
 
-写过两个 [Koishi](https://koishi.chat/zh-CN/) 插件并发布到 npm，那是 2025 年的作品；现在更新得少了，精力主要放在写东西和折腾服务器上。
+写过 Python，HTML / CSS / JavaScript 算是接触过、还在学。两个 Koishi 插件发布到了 npm，那是 2025 年的作品。
+
+现在大部分时间在 **vibe coding** —— 用 AI 辅助工具拼点小东西。
 
 <p>
 <a href="https://github.com/zhuqiy2?tab=followers"><img src="https://img.shields.io/github/followers/zhuqiy2?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
@@ -31,11 +33,11 @@
 
 ### What I'm Up To
 
-| 正在做 | 正在学 |
+| 正在做 | 还在学 |
 |:---|:---|
 | 写博客：网络 / 安全事件的排查与分析 | Linux 运维 |
-| 维护随机动漫图片 API | Python |
-| 维护 Tracker 统计、新标签页等小站 | Docker / 容器化 |
+| 维护随机动漫图片 API 与几个小站 | Docker / 容器化 |
+| 用 AI 辅助工具 vibe coding 做小东西 | JavaScript / HTML / CSS |
 
 ---
 
@@ -45,22 +47,28 @@
 
 ### Tech Stack
 
-**写过 / 在用**
+**写过**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,nodejs,npm,git,github&theme=dark" alt="写过 / 在用" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" alt="写过" />
+</p>
+
+**接触过 · 还在学**
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css&theme=dark" alt="接触过 · 还在学" />
+</p>
+
+**日常工具**
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,chatgpt,vscode,git,github&theme=dark" alt="日常工具" />
 </p>
 
 **服务器 / 运维**
 
 <p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,nginx,docker,bash&theme=dark" alt="服务器 / 运维" />
-</p>
-
-**在学**
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" alt="在学" />
 </p>
 
 ---
