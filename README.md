@@ -13,9 +13,9 @@
 
 ### About Me
 
-喜欢折腾技术的学生，正在学 **Linux 运维** 和 **Python**。
+喜欢折腾技术的学生。日常写博客，记录网络、安全事件的排查和分析过程，也维护着个人博客、Tracker 统计和几个小站。
 
-主要写 [Koishi](https://koishi.chat/zh-CN/) 插件（Node.js），两个都已经发布到 npm；也维护着个人博客和几个小站，用来记录学习过程。
+写过两个 [Koishi](https://koishi.chat/zh-CN/) 插件并发布到 npm，那是 2025 年的作品；现在更新得少了，精力主要放在写东西和折腾服务器上。
 
 <p>
 <a href="https://github.com/zhuqiy2?tab=followers"><img src="https://img.shields.io/github/followers/zhuqiy2?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
@@ -33,10 +33,9 @@
 
 | 正在做 | 正在学 |
 |:---|:---|
-| Koishi 插件开发与维护（已发布 npm） | Linux 运维基础 |
-| 个人博客持续更新 | Python |
-| 随机动漫图片 API 维护 | Docker / 容器化 |
-| Tracker 统计、新标签页等小站 | Node.js 后端开发 |
+| 写博客：网络 / 安全事件的排查与分析 | Linux 运维 |
+| 维护随机动漫图片 API | Python |
+| 维护 Tracker 统计、新标签页等小站 | Docker / 容器化 |
 
 ---
 
@@ -46,30 +45,22 @@
 
 ### Tech Stack
 
-**日常在用** — JavaScript / TypeScript · Node.js · Koishi · Git
-
-**正在学习** — Linux · Python · Docker · Nginx
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### Featured Projects
-
-**[koishi-plugin-chat-model](https://github.com/zhuqiy2/koishi-plugin-chat-model)** — 在没有命令匹配时自动调用大型语言模型进行对话，支持 OpenAI、Claude、Gemini 等，可记忆上下文。
+**写过 / 在用**
 
 <p>
-<a href="https://www.npmjs.com/package/koishi-plugin-chat-model"><img src="https://img.shields.io/npm/v/koishi-plugin-chat-model?style=flat-square&logo=npm&label=npm&color=CB3837" alt="npm" /></a>
-<a href="https://github.com/zhuqiy2/koishi-plugin-chat-model"><img src="https://img.shields.io/github/stars/zhuqiy2/koishi-plugin-chat-model?style=flat-square&logo=github&label=Stars" alt="Stars" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,nodejs,npm,git,github&theme=dark" alt="写过 / 在用" />
 </p>
 
-**[koishi-plugin-server-status](https://github.com/zhuqiy2/koishi-plugin-server-status)** — 查询服务器状态信息，包括 CPU 使用率、内存使用率、网络带宽、运行时间等，支持自定义背景图。
+**服务器 / 运维**
 
 <p>
-<a href="https://www.npmjs.com/package/koishi-plugin-server-status"><img src="https://img.shields.io/npm/v/koishi-plugin-server-status?style=flat-square&logo=npm&label=npm&color=CB3837" alt="npm" /></a>
-<a href="https://github.com/zhuqiy2/koishi-plugin-server-status"><img src="https://img.shields.io/github/stars/zhuqiy2/koishi-plugin-server-status?style=flat-square&logo=github&label=Stars" alt="Stars" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,nginx,docker,bash&theme=dark" alt="服务器 / 运维" />
+</p>
+
+**在学**
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" alt="在学" />
 </p>
 
 ---
@@ -89,6 +80,28 @@
 <!-- BLOG-POST-LIST:END -->
 
 > 由 [GitHub Actions](.github/workflows/blog-post-workflow.yml) 每天自动更新
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      EARLIER PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### Earlier Projects
+
+**[koishi-plugin-chat-model](https://github.com/zhuqiy2/koishi-plugin-chat-model)** — 在没有命令匹配时自动调用大型语言模型进行对话，支持 OpenAI、Claude、Gemini 等，可记忆上下文。
+
+<p>
+<a href="https://www.npmjs.com/package/koishi-plugin-chat-model"><img src="https://img.shields.io/npm/v/koishi-plugin-chat-model?style=flat-square&logo=npm&label=npm&color=CB3837" alt="npm" /></a>
+<a href="https://github.com/zhuqiy2/koishi-plugin-chat-model"><img src="https://img.shields.io/github/stars/zhuqiy2/koishi-plugin-chat-model?style=flat-square&logo=github&label=Stars" alt="Stars" /></a>
+</p>
+
+**[koishi-plugin-server-status](https://github.com/zhuqiy2/koishi-plugin-server-status)** — 查询服务器状态信息，包括 CPU 使用率、内存使用率、网络带宽、运行时间等，支持自定义背景图。
+
+<p>
+<a href="https://www.npmjs.com/package/koishi-plugin-server-status"><img src="https://img.shields.io/npm/v/koishi-plugin-server-status?style=flat-square&logo=npm&label=npm&color=CB3837" alt="npm" /></a>
+<a href="https://github.com/zhuqiy2/koishi-plugin-server-status"><img src="https://img.shields.io/github/stars/zhuqiy2/koishi-plugin-server-status?style=flat-square&logo=github&label=Stars" alt="Stars" /></a>
+</p>
 
 ---
 
